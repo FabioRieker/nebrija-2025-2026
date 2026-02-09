@@ -9,8 +9,14 @@ public class Prueba {
 			System.out.println("huhuhu");
 			System.out.println("hhuuhhuuhhuuhhuuhhuuhhuuhuhu");
 			System.out.println("Dsdsds");
+<<<<<<< HEAD
 			
 			System.out.println();
+=======
+			System.out.println("hehe 9 feb");
+>>>>>>> branch 'master' of https://github.com/FabioRieker/nebrija-2025-2026.git
 	}
 
 }
+
+
